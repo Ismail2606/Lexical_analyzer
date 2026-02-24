@@ -18,3 +18,7 @@ This project implements a lexical analyzer in C that reads a C source file (`sam
 - File Handling in C (`fopen`, `fgetc`, `ungetc`)
 - String Handling (`strcmp`)
 - Character Classification (`isalpha`, `isdigit`, `isalnum`)
+
+## Bash
+ gcc main.c
+ 
